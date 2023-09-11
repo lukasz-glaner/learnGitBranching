@@ -13,6 +13,9 @@ var CommandLineActions = {
     });
   },
   importantfuncition: function () {
+    var x = 1;
+    console.log("important work");
+    var y = 2;
     console.log("should not be here");
   },
   secondImportantFunction: function () {

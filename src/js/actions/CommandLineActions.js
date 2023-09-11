@@ -13,7 +13,7 @@ var CommandLineActions = {
     });
   },
   importantfuncition: function () {
-    console.log("important work");
+    console.log("should not be here");
   },
 };
 
